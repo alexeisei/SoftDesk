@@ -8,7 +8,7 @@ SoftDesk is a RESTful API to track problems about web apps, Android apps and IOS
 It allows the registration and authentification of users to create new projects, update them or delete them.
 Users can add issues concerning these projects, and add comments about these issues.
 
-You can read it's documentation at the following link :
+You can read its documentation at the following link :
 
 https://documenter.getpostman.com/view/18790689/UVREkkEq
 
